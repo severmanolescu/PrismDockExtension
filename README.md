@@ -8,7 +8,7 @@ A PowerToys Command Palette extension that surfaces your [Prism](https://github.
 - Displays app icons from Prism's icon cache
 - Shows total time tracked today as the Dock label (e.g. `Today: 6h 12m`)
 
-![Extension in Command Palette](Assets/Preview.png)
+![Extension in Command Palette](‎PristDockExtension/Assets/Preview.png‎)
 
 ## Requirements
 
