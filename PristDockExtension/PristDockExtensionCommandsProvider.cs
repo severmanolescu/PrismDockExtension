@@ -22,8 +22,12 @@ public partial class PristDockExtensionCommandsProvider : CommandProvider
 
         _commands =
         [
-            new CommandItem(new PristDockExtensionPage()) { Title = label },
-    ];
+            new CommandItem(new PristDockExtensionPage())
+            {
+                Title = "Prism Time Tracker",
+                Subtitle = label,
+            },
+        ];
     }
 
     private static long GetTodayTotalMs()
