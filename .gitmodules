@@ -1,3 +1,4 @@
-[submodule "prism"]
-	path = prism
-	url = https://github.com/severmanolescu/prism
+[submodule "PristDockExtension"]
+    path = PristDockExtension
+    url = https://github.com/severmanolescu/PristDockExtension
+    branch = master
