@@ -1,4 +1,4 @@
-# PristDockExtension
+# PrismDockExtension
 
 A PowerToys Command Palette extension that surfaces your [Prism](https://github.com/severmanolescu/prism) app usage data directly in the Windows Command Palette and Dock.
 
