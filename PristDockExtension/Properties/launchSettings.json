@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PristDockExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "PristDockExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
